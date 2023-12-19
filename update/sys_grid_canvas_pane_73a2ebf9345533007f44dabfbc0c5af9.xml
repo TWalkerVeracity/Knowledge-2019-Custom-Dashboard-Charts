@@ -2,21 +2,21 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA New Tab">0a322bf9345533007f44dabfbc0c5a4b</grid_canvas>
         <height>10</height>
-        <portal_widget display_value="Created 2019-05-09 21:05:34">7fa2ebf9345533007f44dabfbc0c5af7</portal_widget>
+        <portal_widget display_value="Created 2019-05-09 14:05:34">7fa2ebf9345533007f44dabfbc0c5af7</portal_widget>
         <posx>0</posx>
         <posy>3</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-09 21:05:34</sys_created_on>
         <sys_id>73a2ebf9345533007f44dabfbc0c5af9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>0a322bf9345533007f44dabfbc0c5a4b</sys_name>
         <sys_package display_value="Custom Visualizations" source="x_snc_custom_vis">c622b25c1340ff4005ef54c32244b061</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Visualizations">c622b25c1340ff4005ef54c32244b061</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_73a2ebf9345533007f44dabfbc0c5af9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-09 21:16:21</sys_updated_on>
+        <sys_updated_on>2023-09-18 22:53:53</sys_updated_on>
         <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>
